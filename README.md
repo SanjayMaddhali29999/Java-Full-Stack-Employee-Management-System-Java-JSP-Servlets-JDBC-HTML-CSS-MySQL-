@@ -91,35 +91,45 @@ http://localhost:8080/EmployeeManagementSystem
 👤 Maddhali Rudra Sai Naga Venkata Sanjay Gupta
 📍 Vijayawada, Andhra Pradesh, India
 📧 rudramaddhali212@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/sanjay-maddhali9999/
 
 📸 Project Screenshots
+### 📸 Project Screenshots
 
-🏠 Home / Index Page
-![Index Page](indexpage.png)
+#### 🏠 Home / Index Page  
+(Displays overview and navigation menu)  
+![Index Page](project-screenshots/indexpage.png)
 
-🧭 Dashboard Page
-![Dashboard Page](Dashboard.png)
+#### 🧭 Dashboard Page  
+(Shows employee records and CRUD options)  
+![Dashboard Page](project-screenshots/Dashboard.png)
 
-➕ Add Employee
-![Add Employee](AddEmployee.png)
+👤 Add Employee  
+(Form to add a new employee’s details)  
+![Add Employee Page](project-screenshots/AddEmployee.png)
 
-✅ Employee Added Successfully
-![Employee Added](EmployeeAdded.png)
+✅ Employee Added Successfully  
+(Confirmation message after adding employee)  
+![Employee Added](project-screenshots/EmployeeAdded.png)
 
-✏️ Update Employee
-![Update Employee](UpdateEmployeePage.png)
+✏️ Update Employee Page  
+(Form to update existing employee details)  
+![Update Employee Page](project-screenshots/UpdateEmployeePage.png)
 
-🔄 Updated Employee Confirmation
-![Updated Employee](UpdatedEmployee.png)
+🔄 Updated Employee Confirmation  
+(Confirmation message after updating employee data)  
+![Updated Employee](project-screenshots/UpdatedEmployee.png)
 
-🗑️ Deleted Employee Confirmation
-![Deleted Employee](DeletedEmployee.png)
+🗑️ Deleted Employee Confirmation  
+(Confirmation message after deleting an employee record)  
+![Deleted Employee](project-screenshots/DeletedEmployee.png)
 
-👤 Signup Page
-![Signup Page](SignupPage.png)
+👤 Signup Page  
+(Register new user for the system)  
+![Signup Page](project-screenshots/SignupPage.png)
 
-🔐 Login Page
-![Login Page](LoginPage.png)
+🔐 Login Page  
+(User authentication before accessing the system)  
+![Login Page](project-screenshots/LoginPage.png)
+
 
