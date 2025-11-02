@@ -93,3 +93,33 @@ http://localhost:8080/EmployeeManagementSystem
 📧 rudramaddhali212@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/sanjay-maddhali9999/
+
+📸 Project Screenshots
+
+🏠 Home / Index Page
+![Index Page](indexpage.png)
+
+🧭 Dashboard Page
+![Dashboard Page](Dashboard.png)
+
+➕ Add Employee
+![Add Employee](AddEmployee.png)
+
+✅ Employee Added Successfully
+![Employee Added](EmployeeAdded.png)
+
+✏️ Update Employee
+![Update Employee](UpdateEmployeePage.png)
+
+🔄 Updated Employee Confirmation
+![Updated Employee](UpdatedEmployee.png)
+
+🗑️ Deleted Employee Confirmation
+![Deleted Employee](DeletedEmployee.png)
+
+👤 Signup Page
+![Signup Page](SignupPage.png)
+
+🔐 Login Page
+![Login Page](LoginPage.png)
+
